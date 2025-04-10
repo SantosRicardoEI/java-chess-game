@@ -51,6 +51,12 @@ java chess.GUI.ChessGUI
 
 ---
 
+## 📸 Preview
+
+![Chess terminal preview](img/screenshot2.png)  
+![Chess GUI preview](img/screenshot1.png)  
+*Gameplay directly from terminal and GUI!*
+
 ## 🧩 Project Structure
 
 ```
